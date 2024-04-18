@@ -12,15 +12,15 @@ This API provides a system for managing outpatient appointments. Key features in
 ## Setup
 1. **Clone the repository:**
   ```bash
-  git clone [invalid URL removed]
+  git clone (https://github.com/pintu544/patient-appointment-system)
   ```
 2. **Install dependencies:**
   ```bash
-  pip install -r requirements.txt 
+  npm  install 
   ```
-3. **Run migrations:**
+3. **Run :**
   ```bash
-  python manage.py migrate
+ npm start
   ```
 4. **Start the development server:**
   ```bash
